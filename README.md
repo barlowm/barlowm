@@ -22,10 +22,7 @@ If you want to learn more about my technical background I have a [brief resume](
 
 Thanks
 ## Mike Barlow
-Technical Architect
-
-Clinical Ancillary Product Line
-
-EPMO Health Portfolio PMO/TM
-
-Lancaster, Pa
+- Technical Architect
+- Clinical Ancillary Product Line
+- EPMO Health Portfolio PMO/TM
+- Lancaster, Pa
