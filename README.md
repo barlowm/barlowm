@@ -14,15 +14,20 @@ Here are some ideas to get you started:
 -->
 # Who Am I
 Ok, like most people I'm not great at these things so based on the ideas provided here I'll give it a shot.
-- 🔭 Currently Technical Architect for several projects for the Program Management Office of the Dept. of Veterans Affairs
-- 📫 [Personal Email](mailto:barlowm@gmail.com?subject=Read%20your%20GitHub%20profile...&body=and%20would%20like%20to%20discuss%20something%20with%20you...) is probably the best way (though I am on several slack and discord groups as well and you can find me there under the name "MikeB")
-- ⚡ Fun fact: I have been asked and told that I resemble a "jolly old elf" and that is for a good reason, I AM Santa Claus (in disguise *wink*)
 
-If you want to learn more about my technical background I have a [brief resume](https://github.com/barlowm/barlowm/blob/master/m.barlow-resume-Sept2020.pdf) on here as well.
+I have been working for [dbITpro](dbitpro.com), which is a Women Owned Small Business (WOSB) for well over a decade, typically as a developer (my preferred tasks), architect, and team leader. I have been using GitHub practically since it started but recently created a second account [michael-barlow3](https://github.com/michael-barlow3) so that my work for my primary client (the Department of Veterans Affairs) could be separate from my personal account.
+One of my personal areas of expertise and work is in the area of Web Accessibility (both in learning how to make applications more accessible as well as teaching other developers how to do the same). I've worked with a number of companies in evaluating applications and providing input for [VPATs™](https://www.itic.org/policy/accessibility/vpat) (Voluntary Product Accessibility Template) for both Government and Non Government organizations.
+
+- 🔭 Currently Technical Architect for several projects for the Program Management Office of the Dept. of Veterans Affairs
+- 🌱 I’m currently learning anything I can. Trying to improve my knowledge and expertise on DevOps
+- 📫 [Personal Email](mailto:barlowm@gmail.com?subject=Read%20your%20GitHub%20profile...&body=and%20would%20like%20to%20discuss%20something%20with%20you...) is probably the best way (though I am on several slack and discord groups as well and you can usually find me there under the name "MikeB")
+- ⚡ Fun fact: I have been asked and told that I resemble a "jolly old elf" and that is for a good reason, I AM [Santa Claus](https://github.com/barlowm/barlowm/blob/master/images/SantaProfilePicSML.jpg) (in disguise wink)
+- If you want to learn more about my technical background I have a brief [resume](https://github.com/barlowm/barlowm/blob/master/m.barlow-resume.pdf) available.
 
 Thanks
 ## Mike Barlow
 - Technical Architect
 - Clinical Ancillary Product Line
 - EPMO Health Portfolio PMO/TM
+- Web Accessibility/Section 508 SME
 - Lancaster, Pa
